@@ -58,7 +58,7 @@ const Hero = () => {
         </div>
         
         <p className="mt-6 text-sm text-muted-foreground">
-          Requires macOS 15.6 or later • Free & Open Source
+          Requires macOS 15.6 or later • Open Source
         </p>
       </div>
     </section>
