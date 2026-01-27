@@ -30,7 +30,7 @@ const Hero = () => {
             className="border-2 shadow-md hover:shadow-xs hover:translate-x-[3px] hover:translate-y-[3px] transition-all"
             asChild
           >
-            <a href="https://github.com/go7hic/JotBar/releases" target="_blank" rel="noopener noreferrer">
+            <a href="https://apps.apple.com/us/app/jotbar/id6757980936" target="_blank" rel="noopener noreferrer">
               <Download className="mr-2 h-5 w-5" />
               Download for macOS
             </a>
